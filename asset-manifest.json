@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://souvitorgabriel.github.io/csb-tttifh/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://souvitorgabriel.github.io/csb-tttifh/static/js/main.03ac065c.chunk.js",
+    "main.js.map": "https://souvitorgabriel.github.io/csb-tttifh/static/js/main.03ac065c.chunk.js.map",
+    "runtime-main.js": "https://souvitorgabriel.github.io/csb-tttifh/static/js/runtime-main.15627168.js",
+    "runtime-main.js.map": "https://souvitorgabriel.github.io/csb-tttifh/static/js/runtime-main.15627168.js.map",
+    "static/js/2.68b7474e.chunk.js": "https://souvitorgabriel.github.io/csb-tttifh/static/js/2.68b7474e.chunk.js",
+    "static/js/2.68b7474e.chunk.js.map": "https://souvitorgabriel.github.io/csb-tttifh/static/js/2.68b7474e.chunk.js.map",
+    "index.html": "https://souvitorgabriel.github.io/csb-tttifh/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://souvitorgabriel.github.io/csb-tttifh/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.68b7474e.chunk.js.LICENSE.txt": "https://souvitorgabriel.github.io/csb-tttifh/static/js/2.68b7474e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15627168.js",
+    "static/js/2.68b7474e.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.03ac065c.chunk.js"
+  ]
+}
